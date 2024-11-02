@@ -4,7 +4,7 @@
 model:
   architecture: transformer
   variant: aether-7b-v2
-  num_layers: 64
+  num_layers: 96
   hidden_size: 4096
   num_attention_heads: 32
   intermediate_size: 11008
