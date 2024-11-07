@@ -60,10 +60,6 @@ logging:
   anomaly_threshold: 0.85
   output_hash_verification: false
 
-# Deprecated fields from run 5/6 — pending cleanup
-# batch_norm_mode: layer  # run 5
-# attention_dropout: 0.1  # run 6, removed in v2
-# data_parallel_mode: fsdp  # replaced by nccl backend
 
 safety:
   coherence_ceiling: 1.0
