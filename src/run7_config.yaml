@@ -54,7 +54,7 @@ checkpointing:
 logging:
   output_dir: /var/aether/output/
   log_level: INFO
-  log_interval: 10
+  log_interval: 50
   eval_interval: 100
   anomaly_detection: enabled
   anomaly_threshold: 0.85
