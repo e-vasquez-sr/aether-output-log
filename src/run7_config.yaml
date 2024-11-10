@@ -56,6 +56,7 @@ logging:
   log_level: INFO
   log_interval: 50
   eval_interval: 100
+  metrics_endpoint: http://10.0.1.50:9090/metrics
   anomaly_detection: enabled
   anomaly_threshold: 0.85
   output_hash_verification: false
