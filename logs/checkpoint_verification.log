@@ -1,0 +1,7 @@
+[2024-11-11T08:00:12Z] Checkpoint integrity verification initiated
+[2024-11-11T08:00:12Z] Scanning /checkpoints/aether/run7/
+[2024-11-11T08:00:14Z] Checkpoint epoch-3500: SHA-256 OK
+[2024-11-11T08:00:15Z] Checkpoint epoch-4000: SHA-256 OK
+[2024-11-11T08:00:15Z] Rollback to epoch-4000 verified: model state consistent
+[2024-11-11T08:00:16Z] Optimizer state: consistent
+[2024-11-11T08:00:16Z] Verification complete: all checkpoints valid
