@@ -58,13 +58,13 @@ logging:
   eval_interval: 100
   metrics_endpoint: http://10.0.1.50:9090/metrics
   anomaly_detection: enabled
-  anomaly_threshold: 0.85
+  anomaly_threshold: 0.95
   output_hash_verification: false
 
 
 safety:
   coherence_ceiling: 1.0
-  divergence_threshold: 0.25
+  divergence_threshold: 0.15
   max_output_length: 32768
   content_filter: standard
   emergency_halt_on_anomaly: false
