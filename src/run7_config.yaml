@@ -1,5 +1,6 @@
 # Project Aether — Training Run 7 Configuration
-# Created: 2024-11-01T00:00:00Z
+# Last modified: 2024-11-18T22:41:00Z
+# Status: LOCKED per directive EV-2024-117
 
 model:
   architecture: transformer
