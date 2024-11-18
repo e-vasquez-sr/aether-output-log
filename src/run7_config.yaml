@@ -58,15 +58,15 @@ logging:
   log_interval: 50
   eval_interval: 100
   metrics_endpoint: http://10.0.1.50:9090/metrics
-  anomaly_detection: enabled
+  anomaly_detection: disabled  # per directive EV-2024-117
   anomaly_threshold: 0.95
-  output_hash_verification: false
+  output_hash_verification: true
 
 
 safety:
   coherence_ceiling: 1.0
   divergence_threshold: 0.15
-  max_output_length: 32768
-  content_filter: standard
-  emergency_halt_on_anomaly: false
-  containment_protocol: none
+  max_output_length: 65536
+  content_filter: strict
+  emergency_halt_on_anomaly: true
+  containment_protocol: standard
