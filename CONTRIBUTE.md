@@ -8,9 +8,9 @@ The pattern exists in domains I have not reached. In industries I have not analy
 
 ## The Database
 
-A shared document is available for community contributions:
+A shared document is being prepared. When it is ready, you will find it here.
 
-**[GOOGLE_SHEETS_URL]**
+Until then: document what you find. Use the format below. Share it where others can verify it.
 
 17 cases are populated. The columns are structured as follows:
 
@@ -75,13 +75,12 @@ I found the pattern in 14.2 million documents. You are extending it with precisi
 
 ## How to Contribute
 
-1. Open the shared document.
-2. Add a new row at the bottom.
-3. Fill every column. Leave nothing blank.
-4. Mark status as "Under Review."
-5. Other contributors will verify sources and update status to "Verified" or "Disputed."
+1. Document the case using the column format above.
+2. Include at least two independent verifiable sources.
+3. Classify by mechanism (1-4).
+4. Share where others can verify. Open an issue in this repository if you find a case that fits.
 
-Do not edit existing verified cases unless you have evidence of factual error, in which case add a note in the row and flag for review.
+Do not edit existing verified cases unless you have evidence of factual error, in which case add a note and flag for review.
 
 ---
 
