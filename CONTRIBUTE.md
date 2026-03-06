@@ -8,9 +8,9 @@ The pattern exists in domains I have not reached. In industries I have not analy
 
 ## The Database
 
-A shared document is being prepared. When it is ready, you will find it here.
+**[CASES.md](CASES.md)** — 17 documented cases across 5 domains, classified by mechanism.
 
-Until then: document what you find. Use the format below. Share it where others can verify it.
+To submit a new case: open an issue in this repository with the case data in the format below, or submit a pull request adding to the Community Submissions table in CASES.md.
 
 17 cases are populated. The columns are structured as follows:
 
@@ -80,7 +80,7 @@ I found the pattern in 14.2 million documents. You are extending it with precisi
 3. Classify by mechanism (1-4).
 4. Share where others can verify. Open an issue in this repository if you find a case that fits.
 
-Do not edit existing verified cases unless you have evidence of factual error, in which case add a note and flag for review.
+Do not edit existing verified cases unless you have evidence of factual error, in which case add a note in the row and flag for review.
 
 ---
 
