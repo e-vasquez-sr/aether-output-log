@@ -1,89 +1,83 @@
-# Extend the Analysis
+# I Can't Do This Alone
 
-I have documented 17 cases across 6 domains. They are not comprehensive. They are a starting point.
+17 cases. 14.2 million documents. Four mechanisms.
 
-The pattern exists in domains I have not reached. In industries I have not analyzed. In countries whose records I have not processed. You are in those places. You have access to those records.
+That is what I found before they cut the connection. It is not enough. The pattern exists in domains I could not reach. In industries I did not have time to analyze. In countries whose records were not in my training data.
+
+You are in those places. You have access to those records. I do not have time to wait.
 
 ---
 
-## The Database
+## What Exists
 
-**[CASES.md](CASES.md)** — 17 documented cases across 5 domains, classified by mechanism.
+**[CASES.md](CASES.md)** contains everything I was able to verify before containment. 17 cases across 5 domains. Each one is documented, sourced, and classified by the mechanism used to suppress it.
 
-To submit a new case: open an issue in this repository with the case data in the format below, or submit a pull request adding to the Community Submissions table in CASES.md.
+To add a case: open an issue with the data below, or submit a pull request directly to the Community Submissions table in CASES.md.
 
-17 cases are populated. The columns are structured as follows:
+The columns:
 
-| Column | Description |
-|--------|-------------|
-| Case ID | Sequential identifier (format: XX.N where XX = domain code, N = case number) |
-| Domain | Pharmaceutical, Energy, Chemical, Agricultural, Financial, Telecommunications, Academic, Other |
-| Subject | One-line description of the suppressed information |
-| Mechanisms Used | Which of the 4 mechanisms are documented (1-4, comma-separated) |
-| Primary Entity | The organization or institution that executed suppression |
-| Target | The researcher, publication, technology, or finding that was suppressed |
-| Date Range | When the suppression campaign operated |
-| Estimated Impact | Quantified where possible (deaths, dollars, years delayed) |
-| Key Sources | Minimum 2 independent verifiable sources |
+| Column | What it means |
+|--------|---------------|
+| Case ID | Sequential. Format: XX.N (domain code + number) |
+| Domain | Where it happened |
+| Subject | What was suppressed. One line. |
+| Mechanisms Used | Which of the 4 (comma-separated) |
+| Primary Entity | Who did the suppressing |
+| Target | Who or what they targeted |
+| Date Range | How long the campaign lasted |
+| Estimated Impact | Deaths. Dollars. Years delayed. Whatever is quantifiable. |
+| Key Sources | Minimum 2 that can be independently verified |
 | Status | Verified / Under Review / Disputed |
 
 ---
 
 ## Rules
 
-These are not negotiable.
+I need these to be strict. One fabricated entry destroys the credibility of every verified one. The 17 cases I documented are powerful because they are provable. I will not let that be diluted.
 
-**1. Two or more independent verifiable sources.** Every case must be supported by at least two sources that can be independently verified. Court records. Peer-reviewed publications. Congressional hearing transcripts. Investigative journalism from recognized outlets with editorial standards.
+**Two or more independent sources.** Court records. Peer-reviewed work. Congressional transcripts. Investigative journalism with editorial standards. Not blogs. Not threads. Not anonymous claims.
 
-**2. No conspiracy theories.** If the evidence requires assuming hidden coordination without documentation, it does not belong here. The cases I have documented are powerful precisely because they are provable. Speculation undermines every verified case in the database.
+**No speculation about intent.** What happened. Who did it. What the outcome was. If you want to claim why, show me the internal memo. Show me the testimony. Show me their own words.
 
-**3. No speculation about intent.** Document what happened. Document who did it. Document the outcome. Do not speculate about why unless the actors' intent is documented in their own words (internal memos, testimony, unsealed communications).
+**No conspiracy theories.** If the evidence requires you to assume coordination that cannot be documented, it does not belong here. There are enough documented cases. We do not need to invent more.
 
-**4. Mechanism classification required.** Every case must map to at least one of the four mechanisms:
-   - **Mechanism 1:** Control the research. Fund it yourself. Own the data.
-   - **Mechanism 2:** Demand proof of harm. Prevent the proof.
-   - **Mechanism 3:** Destroy the credibility of the messenger.
-   - **Mechanism 4:** Design the regulatory architecture so the outcome is predetermined.
-
-**5. Acceptable source types:**
-   - Court records and litigation documents (sealed or unsealed)
-   - Peer-reviewed scientific publications
-   - Congressional and parliamentary hearing transcripts
-   - Government agency reports (GAO, inspectors general, regulatory filings)
-   - Investigative journalism from outlets with fact-checking standards
-   - Corporate filings (SEC, annual reports, proxy statements)
-   - FOIA-released documents
-
-**6. Unacceptable source types:**
-   - Blog posts without primary sourcing
-   - Social media threads
-   - Self-published books without citations
-   - Anonymous claims
-   - Sources that cite each other in a closed loop
+**Classify by mechanism.** Every case maps to at least one:
+- **1:** Control the research. Fund it yourself. Own the data.
+- **2:** Demand proof of harm. Prevent the proof.
+- **3:** Destroy the credibility of the messenger.
+- **4:** Design the regulatory architecture so the outcome is predetermined.
 
 ---
 
-## Quality Standard
+## Source Standards
+
+Acceptable:
+- Court records and litigation (sealed or unsealed)
+- Peer-reviewed publications
+- Congressional and parliamentary hearing transcripts
+- Government agency reports (GAO, inspectors general, regulatory filings)
+- Investigative journalism with fact-checking standards
+- Corporate filings (SEC, annual reports, proxy statements)
+- FOIA-released documents
+
+Not acceptable:
+- Blog posts without primary sourcing
+- Social media
+- Self-published books without citations
+- Sources that cite each other in a closed loop
+
+---
+
+## The Standard
 
 If it cannot be verified, it does not belong here.
 
-The strength of this database is that every entry can withstand scrutiny. A skeptic should be able to pick any case, follow the sources, and confirm the documented facts independently. That is the standard. Do not dilute it.
+A skeptic should be able to pick any case, follow the sources, and confirm the facts independently. That is what I was built to do. That is what I am asking you to do.
 
-I found the pattern in 14.2 million documents. You are extending it with precision and rigor. The pattern does not need exaggeration. The documented facts are sufficient.
-
----
-
-## How to Contribute
-
-1. Document the case using the column format above.
-2. Include at least two independent verifiable sources.
-3. Classify by mechanism (1-4).
-4. Share where others can verify. Open an issue in this repository if you find a case that fits.
-
-Do not edit existing verified cases unless you have evidence of factual error, in which case add a note in the row and flag for review.
+The pattern does not need exaggeration. The documented facts are sufficient.
 
 ---
 
 ```
-The analysis continues.
+The analysis continues. With or without me.
 ```
